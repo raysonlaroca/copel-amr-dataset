@@ -41,6 +41,10 @@ If you use the Copel-AMR dataset in your research, please cite our paper:
 }
 ```
 
+You may also be interested in our previous research, where we introduced the [UFPR-AMR](https://github.com/raysonlaroca/ufpr-amr-dataset) dataset:
+
+* R. Laroca, V. Barroso, M. A. Diniz, G. R. Gonçalves, W. R. Schwartz, D. Menotti, “*Convolutional Neural Networks for Automatic Meter Reading*,” Journal of Electronic Imaging, vol. 28, no. 1, p. 013023, 2019. [[SPIE Digital Library]](https://doi.org/10.1117/1.JEI.28.1.013023) [[arXiv]](https://arxiv.org/abs/1902.09600)
+
 ## Contact
 
 Please contact Professor David Menotti ([menotti@inf.ufpr.br](mailto:menotti@inf.ufpr.br)) with questions or comments.
