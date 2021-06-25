@@ -12,7 +12,7 @@ For each image in our dataset, we manually labeled the meter reading, the positi
 
 Here are some examples from the dataset:  
 <p align="center">
-    <img src="./media/samples.png" width="1288" height="565"/>
+    <img src="./media/samples.png"/>
 </p>
 
 ## How to obtain the Dataset
