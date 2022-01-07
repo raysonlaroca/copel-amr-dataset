@@ -11,9 +11,7 @@ The dataset was randomly split as follows: 5,000 images for training, 5,000 imag
 For each image in our dataset, we manually labeled the meter reading, the position (x, y) of each of the four corners of the counter, and a bounding box (x, y, w, h) for each digit. Corner annotations – which can be converted to a bounding box – enable the counter to be rectified, while bounding boxes enable the training of object detectors. The full details are in our [paper](./pdfs/laroca2021towards.pdf).
 
 Here are some examples from the dataset:  
-<p align="center">
-    <img src="./media/samples.png"/>
-</p>
+<img src="./media/samples.png"/>
 
 ## How to obtain the dataset
 
@@ -28,16 +26,16 @@ If you use the Copel-AMR dataset in your research, please cite our paper:
 * R. Laroca, A. B. Araujo, L. A. Zanlorensi, E. C. de Almeida, D. Menotti, “*Towards Image-based Automatic Meter Reading in Unconstrained Scenarios: A Robust and Efficient Approach*,” IEEE Access, vol. 9, pp. 67569-67584, 2021. [[IEEE Xplore]](https://doi.org/10.1109/ACCESS.2021.3077415) [[arXiv]](https://arxiv.org/abs/2009.10181)
 
 ```
-@ARTICLE{laroca2021towards,
-  author={R. {Laroca} and A. B. {Araujo} and L. A. {Zanlorensi} and Eduardo C. {de Almeida} and D. {Menotti}},
-  journal={IEEE Access}, 
-  title={Towards Image-Based Automatic Meter Reading in Unconstrained Scenarios: A Robust and Efficient Approach}, 
-  year={2021},
-  volume={9},
-  number={},
-  pages={67569-67584},
-  ISSN={2169-3536},
-  doi={10.1109/ACCESS.2021.3077415}
+@article{laroca2021towards,
+  title = {Towards Image-Based Automatic Meter Reading in Unconstrained Scenarios: A Robust and Efficient Approach},
+  author = {R. {Laroca} and A. B. {Araujo} and L. A. {Zanlorensi} and Eduardo C. {de Almeida} and D. {Menotti}},
+  year = {2021},
+  journal = {IEEE Access},
+  volume = {9},
+  number = {},
+  pages = {67569-67584},
+  doi = {10.1109/ACCESS.2021.3077415},
+  issn = {2169-3536}
 }
 ```
 
