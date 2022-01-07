@@ -15,7 +15,7 @@ Here are some examples from the dataset:
     <img src="./media/samples.png"/>
 </p>
 
-## How to obtain the Dataset
+## How to obtain the dataset
 
 The Copel-AMR dataset is the property of the Energy Company of Paraná (Copel) and is released **only** to academic researchers from educational or research institutes for **non-commercial purposes**. 
 
@@ -44,6 +44,10 @@ If you use the Copel-AMR dataset in your research, please cite our paper:
 You may also be interested in our previous research, where we introduced the [UFPR-AMR](https://github.com/raysonlaroca/ufpr-amr-dataset) dataset:
 
 * R. Laroca, V. Barroso, M. A. Diniz, G. R. Gonçalves, W. R. Schwartz, D. Menotti, “*Convolutional Neural Networks for Automatic Meter Reading*,” Journal of Electronic Imaging, vol. 28, no. 1, p. 013023, 2019. [[SPIE Digital Library]](https://doi.org/10.1117/1.JEI.28.1.013023) [[arXiv]](https://arxiv.org/abs/1902.09600)
+
+## Related Works
+
+A list of all articles on AMR published by us can be seen [here](https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&as_ylo=2019&q=allintitle%3A+meter+reading+author%3ARayson+author%3ALaroca&btnG=).
 
 ## Contact
 
