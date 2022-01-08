@@ -45,7 +45,7 @@ You may also be interested in our previous research, where we introduced the [UF
 
 ## Related publications
 
-A list of all papers on AMR published by us can be seen [here](https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&as_ylo=2019&q=allintitle%3A+meter+reading+author%3ARayson+author%3ALaroca&btnG=).
+A list of all papers on AMR published by us can be seen [here](https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&as_ylo=2019&q=allintitle%3A+meter+reading+author%3A%22Rayson+Laroca%22&btnG=).
 
 ## Contact
 
