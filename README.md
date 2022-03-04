@@ -43,7 +43,7 @@ You may also be interested in our previous research, where we introduced the [UF
 
 * R. Laroca, V. Barroso, M. A. Diniz, G. R. Gonçalves, W. R. Schwartz, D. Menotti, “*Convolutional Neural Networks for Automatic Meter Reading*,” Journal of Electronic Imaging, vol. 28, no. 1, p. 013023, 2019. [[SPIE Digital Library]](https://doi.org/10.1117/1.JEI.28.1.013023) [[arXiv]](https://arxiv.org/abs/1902.09600)
 
-Additionally, consider showing your support by starring this repository.
+Additionally, consider showing your support by starring (:star:) this repository.
 
 ## Related publications
 
