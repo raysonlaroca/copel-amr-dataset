@@ -19,7 +19,7 @@ The Copel-AMR dataset is the property of the Energy Company of Paraná (Copel) a
 
 To be able to download the dataset, please read carefully [**this license agreement**](./pdfs/license-agreement.pdf), fill it out and send it back to Professor David Menotti ([menotti@inf.ufpr.br](mailto:menotti@inf.ufpr.br)). The license agreement MUST be reviewed and signed by the individual or entity authorized to make legal commitments on behalf of the institution or corporation (e.g., Department/Administrative Head, or similar). **We cannot accept licenses signed by students or faculty members.**
 
-In general, you will receive a download link within 1-5 business days. If you do not find it in your inbox after this period, please check your spam/junk folder. Failure to follow the instructions may result in no response.
+In general, you will receive a download link within 1-5 business days. If you do not receive it within this timeframe, please check your spam/junk folder. Failure to follow the instructions above may result in no response.
 
 ## Citation
 
